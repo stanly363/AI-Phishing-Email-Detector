@@ -46,6 +46,6 @@ The model uses an embedding + Bi-LSTM architecture and includes early-stopping a
    pip install -r requirements.txt
 
 ## Run the model
-By running
+
   ```bash
   python tensor.py
